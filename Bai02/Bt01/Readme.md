@@ -105,3 +105,9 @@ const styles = StyleSheet.create({
     paddingHorizontal: 16,
   },
 });
+```
+
+---
+
+## 4. Hình ảnh minh họa giao diện (Screenshot)
+<img width="328" height="669" alt="image" src="https://github.com/user-attachments/assets/8a254840-0364-44f2-8554-bd118dd3e7ee" />
